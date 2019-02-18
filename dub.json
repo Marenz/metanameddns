@@ -1,0 +1,12 @@
+{
+	"description": "DDNS Updater for Metaname",
+	"dependencies": {
+		"vibe-d": "~>0.8.4"
+	},
+	"authors": [
+		"Mathias Baumann"
+	],
+	"copyright": "Copyright © 2019, Mathias Baumann",
+	"license": "GPLv3",
+	"name": "metanameddns"
+}
